@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASES_DE_ESTRUCTURA", "CLASES_DE_ESTRUCTURA\CLASES_DE_ESTRUCTURA.csproj", "{B2E63DF7-4BDC-46DF-A89B-ABA671F5D5E7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ejercicios", "ejercicios\ejercicios.pyproj", "{24B0A552-CB81-440E-867F-BC41FD569E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E63DF7-4BDC-46DF-A89B-ABA671F5D5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E63DF7-4BDC-46DF-A89B-ABA671F5D5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E63DF7-4BDC-46DF-A89B-ABA671F5D5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E63DF7-4BDC-46DF-A89B-ABA671F5D5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B0A552-CB81-440E-867F-BC41FD569E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B0A552-CB81-440E-867F-BC41FD569E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BBBB71-AC90-4FF2-A864-BF16DC97C64D}
+	EndGlobalSection
+EndGlobal
