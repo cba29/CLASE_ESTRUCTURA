@@ -1,10 +1,9 @@
-namespace laboratorio8
+namespace Laboratorio8_11
 {
     using System;
-    using System.Collections.Generic;
     using System.Windows.Forms;
 
-    namespace NumerosPrimos
+    namespace NumerosOrdenadosMenorAMayor
     {
         static class Program
         {
@@ -17,4 +16,5 @@ namespace laboratorio8
             }
         }
     }
+
 }

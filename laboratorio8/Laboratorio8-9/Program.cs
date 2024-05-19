@@ -1,10 +1,9 @@
-namespace laboratorio8
+namespace Laboratorio8_9
 {
     using System;
-    using System.Collections.Generic;
     using System.Windows.Forms;
 
-    namespace NumerosPrimos
+    namespace PalabrasLongitudDeterminada
     {
         static class Program
         {
